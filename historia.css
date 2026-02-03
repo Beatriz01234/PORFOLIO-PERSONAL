@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: rgb(240, 205, 211);
+}
+
+header {
+    background-color: rgb(174, 174, 244);
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+audio {
+    margin: 10px;
+}
+
+video {
+    margin: 50px;
+}
+
+footer{
+    background-color: rgb(174, 174, 244);
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
